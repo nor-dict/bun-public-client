@@ -1,2 +1,7 @@
-# bun-client
-javascript client
+```powershell
+# install deps
+npm install
+
+# launch
+bun main.js
+```
